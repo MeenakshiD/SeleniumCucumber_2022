@@ -57,6 +57,8 @@ public class LoginPage {
 
         txtLoginbtn.click();
 
+
+
     }
 
     public void setTxtLogoutbtn(){
